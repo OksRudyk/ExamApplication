@@ -1,0 +1,27 @@
+{
+  "name" : "Test2",
+  "description" : "Cool and inspiring description",
+  "questions" : [
+    {
+      "question_body": "some question first",
+      "answers" : [
+
+        {"answer" : "first_answer","is_correct" : "false"},
+        {"answer" : "second_answer","is_correct" : "false"},
+        {"answer" : "third_answer","is_correct" : "true"},
+        {"answer" : "forth_answer","is_correct" : "false"}
+      ]
+    },
+    {
+      "question_body": "some question second",
+      "answers" : [
+
+        {"answer" : "first_answer","is_correct" : "false"},
+        {"answer" : "second_answer","is_correct" : "true"},
+        {"answer" : "third_answer","is_correct" : "false"},
+        {"answer" : "forth_answer","is_correct" : "false"}
+      ]
+    }
+
+  ]
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestsApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Some test name</string>
+    <string name="description_example">I am description</string>
+
+</resources>
